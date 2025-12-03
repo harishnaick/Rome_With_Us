@@ -59,7 +59,9 @@ Cars
 Bookings
 
 Payments
+Database:
 
+🗂 SQL / SQLite
 Operations:
 
 Insert / Update / Delete
@@ -79,6 +81,4 @@ It highlights your ability to handle real-world use cases like bookings, authent
 
 
 
-Database:
 
-🗂 SQL / SQLite
